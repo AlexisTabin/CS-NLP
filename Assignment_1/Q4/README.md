@@ -11,3 +11,9 @@
   - The code will generate a plot, paste that in your assignment, along with the plot submit all the python files (*.py) in a zip file.
 - What do you think are the advantages a subword approach such as fastText has over a character embedding-based approach? 
 - Can you think of a few examples where subword information might hurt the embedding’s performance?
+
+
+# Implementation
+
+First, I read a nice paper about [deriving Mikolov et al.'s Negative-Sampling Word Embedding Mehtod](https://arxiv.org/pdf/1402.3722.pdf)
+
